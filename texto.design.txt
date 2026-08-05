@@ -22,4 +22,17 @@ prototipo
 quinta-feira (prototipar): a equipe constroi um prototipo de alta fidelidade visual (usando ferramentas como figma),
 focando apenas em que o usuario precisa ver para parecer real
 
-sexta-feira (testar): o prototipo é testado em cinco usuários reais entrevistas individuais, para avaliar as hipóteses
+sexta-feira (testar): o prototipo é testado em cinco usuários reais entrevistas individuais, para avaliar as hipóteses  
+
+Papéis principais:
+Decisor: A pessoa que tem a palavra final em escolhas difíceis (ex: Product Manager, CEO)
+
+Facilitador: Gerencia o tempo, as regras e garante que o processo flua.
+
+Equipe Multifuncional: Pequeno grupo (5 a 7 pessoas) incluindo designers, desenvolvedores, especialistas de produto e marketing.
+
+Em resumo
+Rápida e focada: Reduz meses de debate para 5 dias de trabalho intenso.
+
+Testes reais: Valida ideias com clientes de verdade antes de escrever qualquer linha de código.
+Trabalho individual e junto: Evita que a voz mais alta da sala domine a discussão.
