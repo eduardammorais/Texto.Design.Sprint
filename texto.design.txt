@@ -1,0 +1,25 @@
+A metodologia Design Sprint (criada pelo Google Ventures) é um processo de 5 dias para responder a grandes questões
+de negócios através de design, prototipagem e testes com usuário reais, sem precisar construir e lançar um produto
+completo.
+
+Também é comum chamar de "Sprint" o ciclo de trabalho do Scrum (geralmente de 2 a 4 semanas), mas o termo 
+como metodologia própia refere-se ao Design Sprint do Google.
+
+O objetivo Principal
+Validar uma ideia ou resolver um problema crítico em 1 semana em vez de gastar meses desenvolvendo algo
+que talvez ninguem queira.
+
+Segunda feira (mapear): a equipe define objetivo de longo prazo, mapeia o problema e escolhe um foco especifico para
+a semana.
+
+terça-feira (esboçar): em vez de reuniões de brainstorming,cada pessoa trabalha individualmente, para desenhar soluções
+detalhadas no papel
+
+quarta-feira (decidir): a equipe analisa a soluções, vota nas melhores ideias e o decisor (lider) escolhe qual virara o
+prototipo
+
+
+quinta-feira (prototipar): a equipe constroi um prototipo de alta fidelidade visual (usando ferramentas como figma),
+focando apenas em que o usuario precisa ver para parecer real
+
+sexta-feira (testar): o prototipo é testado em cinco usuários reais entrevistas individuais, para avaliar as hipóteses
